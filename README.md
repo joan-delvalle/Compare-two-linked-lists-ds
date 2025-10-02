@@ -1,1 +1,1 @@
-# Compare-two-linked-lists-ds
+# Compare-two-linked-lists-ds This program creates two singly linked lists from input and compares them node by node. It outputs **1** if both lists have the same length and identical values, otherwise it outputs 0.
